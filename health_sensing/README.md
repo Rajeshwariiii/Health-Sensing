@@ -187,15 +187,4 @@ The project structure supports extending to sleep stage classification using the
 - Event files contain start time, duration, and event type
 - Sleep profile files contain 30-second sleep stage annotations
 
-## 📈 Performance Notes
 
-The models are designed for proof-of-concept demonstration. For production use, consider:
-- Hyperparameter tuning
-- More sophisticated architectures
-- Data augmentation techniques
-- Cross-participant normalization
-
----
-
-**Author**: Data Science Team, DeepMedico™  
-**Date**: Health Sensing Project Implementation
